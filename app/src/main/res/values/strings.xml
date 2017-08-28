@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">REVIEWER</string>
+    <string name="search_button">商品検索</string>
+    <string name="search_init_text">商品名を入力してください</string>
+</resources>
